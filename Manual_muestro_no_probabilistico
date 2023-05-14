@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T02:59:15.276Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="U9b6Yemzrq6EPSbgU4hw" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T03:12:58.108Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wP-7sDaCEesS7cf6to9G" version="21.3.0" type="github">
   <diagram name="Página-1" id="3mEy_3clpe5K9e7sdAM9">
     <mxGraphModel dx="1060" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="khk28QWauL-OqV1Gk9Bx-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;MANUAL DE METODOS DE REMUESTREO NO POBABILISTICOS&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=90;fontSize=12;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;align=right;" parent="1" vertex="1">
-          <mxGeometry x="11" y="10" width="1389" height="1030" as="geometry" />
+          <mxGeometry x="12" y="10" width="1389" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="khk28QWauL-OqV1Gk9Bx-4" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="khk28QWauL-OqV1Gk9Bx-2" vertex="1">
           <mxGeometry x="-158.75" y="428.75" width="660" height="342.5" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="368.25" y="607.38" width="315" height="111.25" as="geometry" />
         </mxCell>
         <mxCell id="khk28QWauL-OqV1Gk9Bx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="549.25" y="443.75" width="660" height="332.5" as="geometry" />
+          <mxGeometry x="550.25" y="443.75" width="660" height="332.5" as="geometry" />
         </mxCell>
         <mxCell id="khk28QWauL-OqV1Gk9Bx-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Muestreo según criterio&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="300" width="321" height="60" as="geometry" />
@@ -69,6 +69,15 @@
         </mxCell>
         <mxCell id="khk28QWauL-OqV1Gk9Bx-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Muestreo por conveniencia&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1063.5" y="300" width="321" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y5w3FI9n5um_GzklyoHU-25" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;Dentro del muestreo según criterio existen dos formas de criterio: el&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;primer criterio, que es el criterio del investigador; y el segundo criterio, que&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;es el criterio de un grupo de expertos. Al primero de ellos se le denomina&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;discrecional; y al segundo, de juicio.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="723" y="394" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y5w3FI9n5um_GzklyoHU-26" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;Este tipo de muestreo es muy utilizado en las pruebas piloto, porque&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;cuando construyes un instrumento necesitas ponerlo a prueba.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="724" y="493" width="315" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y5w3FI9n5um_GzklyoHU-27" value="&lt;b&gt;¿CUÁNDO SE USA?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="720" y="450" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
